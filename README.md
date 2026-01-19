@@ -33,4 +33,5 @@ I'm a **Full Stack Developer** with a solid backend foundation, currently workin
 
 📫 **Let’s connect!**  
 Feel free to explore my repositories and reach out if you're interested in collaboration, feedback, or just a chat about tech.
+
 📧 Email: contact@diegomezzo.com
