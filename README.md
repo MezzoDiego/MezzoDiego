@@ -1,6 +1,15 @@
+<p align="center">
+  <a href="README.md">
+  <img src="https://img.shields.io/badge/language-English-blue.svg">
+  </a>
+  <a href="README.it.md">
+    <img src="https://img.shields.io/badge/lingua-Italiano-green.svg">
+  </a>
+</p>
+
 # 👋 Hi there! Welcome to my GitHub
 
-I'm a **Full Stack Developer** with a solid backend foundation, currently working as a **Java Consultant** at [SI2001](https://www.si2001.it/). With three years of hands-on experience building web applications, I'm driven by curiosity, continuous learning, and a passion for creating clean, efficient, and scalable software.
+I'm a **Java Full Stack Developer** with a solid backend foundation, currently working as a **Java Consultant** at [SI2001](https://www.si2001.it/). With more than three years of hands-on experience building web applications, I'm driven by curiosity, continuous learning, and a passion for creating clean, efficient, and scalable software.
 
 ## 💡 About Me
 
@@ -21,7 +30,7 @@ I'm a **Full Stack Developer** with a solid backend foundation, currently workin
 - Contributing to enterprise-level applications across multiple domains
 - Building APIs, designing scalable services, and integrating third-party systems
 - Improving system performance and maintainability through clean architecture
-- **Actively refining my personal portfolio — three new projects will be released soon here on GitHub. Stay tuned! 😉**
+- **Actively refining my personal portfolio — new projects will be released soon here on GitHub. Stay tuned! 😉**
 
 ## 🚀 Goals & Motivation
 
