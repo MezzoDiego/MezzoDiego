@@ -9,13 +9,14 @@
 
 # 👋 Ciao! Benvenuto nel mio GitHub
 
-Sono un **Java Full Stack Developer** con una solida base backend, attualmente impegnato come **Java Consultant** presso [SI2001](https://www.si2001.it/). Con più di tre anni di esperienza pratica nello sviluppo di applicazioni web, sono guidato dalla curiosità,
+Sono un **Software Engineer** e **Java Full Stack Developer** con una solida base backend, attualmente impegnato come **Java Consultant** presso [SI2001](https://www.si2001.it/). Con più di tre anni di esperienza pratica nello sviluppo di applicazioni web, sono guidato dalla curiosità,
 dall’apprendimento continuo e dalla passione per la creazione di software pulito, efficiente e scalabile.
 
 ## 💡 Profilo Professionale
 
 🎓 Sto attualmente conseguendo una laurea in Ingegneria Informatica, affiancando l’esperienza professionale a una solida formazione accademica.   
 💻 Specializzato in **Java** e nell’ecosistema **Spring**. Mi piace lavorare su progetti full-stack che uniscono logica backend robusta ed esperienze frontend dinamiche.   
+🚀 Founder di **[Prenvia.me](https://prenvia.me/)**, una piattaforma SaaS progettata per aiutare le attività su appuntamento a gestire prenotazioni online, servizi, disponibilità dello staff e appuntamenti con i clienti.
 🤝 Esperienza nella collaborazione con team multidisciplinari utilizzando metodologie Agile/Scrum.   
 
 ## 🧰 Tech Stack & Strumenti
