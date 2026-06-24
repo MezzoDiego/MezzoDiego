@@ -7,6 +7,14 @@
   </a>
 </p>
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=240&section=header&color=6B4FFF&text=Diego%20Mezzo&fontSize=64&fontColor=FFFFFF&fontAlignY=42&animation=twinkling" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=900&color=8A72FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Specialist;Java+Full-Stack+Developer;Founder+%40+Prenvia.me;Computer+Engineering+Student" />
+
+</div>
+
 # 👋 Ciao! Benvenuto nel mio GitHub
 
 Sono un **Software Engineer** e **Java Full Stack Developer** con una solida base backend, attualmente impegnato come **Java Consultant** presso [SI2001](https://www.si2001.it/). Con più di tre anni di esperienza pratica nello sviluppo di applicazioni web, sono guidato dalla curiosità,
