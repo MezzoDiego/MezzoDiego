@@ -1,6 +1,3 @@
-<img width="1695" height="928" alt="599a459c-4f00-414a-be1f-55eca01e5367" src="https://github.com/user-attachments/assets/d371a1e9-ee1a-48f2-8361-9e55d156bcb3" />
----
-
 <p align="center">
   <a href="README.md">
   <img src="https://img.shields.io/badge/language-English-blue.svg">
