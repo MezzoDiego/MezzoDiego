@@ -52,4 +52,6 @@ I'm a **Software Engineer** and **Java Full Stack Developer** with a solid backe
 📫 **Let’s connect!**  
 Feel free to explore my repositories and reach out if you're interested in collaboration, feedback, or just a chat about tech.
 
-📧 Email: dev@diegomezzo.com
+🌐 [Website](https://diegomezzo.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/diego-mezzo-748094270)    
+📧 [Email](mailto:contact@diegomezzo.com)  
