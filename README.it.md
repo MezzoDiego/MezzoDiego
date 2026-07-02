@@ -59,4 +59,6 @@ dall’apprendimento continuo e dalla passione per la creazione di software puli
 
 Sentiti libero di esplorare i miei repository e contattarmi se sei interessato a collaborazioni, feedback o semplicemente a fare due chiacchiere sul mondo tech.
 
-📧 Email: dev@diegomezzo.com
+🌐 [Sito web](https://diegomezzo.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/diego-mezzo-748094270)    
+📧 [Email](mailto:contact@diegomezzo.com)  
