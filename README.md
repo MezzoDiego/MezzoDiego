@@ -144,7 +144,7 @@ Currently, I'm focused on:
 
 My goal is to combine **software engineering, product development, and entrepreneurship**.
 
-I want to build technology that solves real problems — whether through SaaS products, custom software, automation, or digital businesses — while continuously improving as both an engineer and a founder.
+I want to build technology that solves real problems whether through SaaS products, custom software, automation, or digital businesses, while continuously improving as both an engineer and a founder.
 
 ---
 
