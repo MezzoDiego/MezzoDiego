@@ -17,7 +17,7 @@
 
 # 👋 Ciao! Sono Diego
 
-Sono un **Software Engineer**, **Java Full-Stack Developer** e imprenditore digitale con oltre tre anni di esperienza professionale nello sviluppo di applicazioni web e software enterprise.
+Sono un **Software Engineer**, **Java Full-Stack Developer** e imprenditore digitale con oltre quattro anni di esperienza professionale nello sviluppo di applicazioni web e software enterprise.
 
 Attualmente lavoro come **Java Consultant presso [SI2001](https://www.si2001.it/)**, mentre parallelamente sviluppo prodotti digitali e porto avanti progetti imprenditoriali.
 
